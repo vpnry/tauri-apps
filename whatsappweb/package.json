@@ -1,0 +1,13 @@
+{
+  "name": "whatsappweb",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "icon-gen": "tauri icon icon.png"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1"
+  }
+}
